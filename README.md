@@ -1,60 +1,63 @@
 # Hello, I'm Joseph Lloyd
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
 ## Objective
-[Provide Objective - Remove this afterwards]]
+Aspiring cybersecurity professional with hands-on experience in incident response, network traffic analysis, and vulnerability assessment. Driven by a commitment to safeguarding data and systems, I am looking to join a Security Operations Center (SOC) as a Tier 1 Analyst to apply my skills in protecting organizations from evolving cyber threats.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## Skills and Associated Projects
+| Skill                                         | Associated Project                                                                                                             |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Incident Response and Analysis**            | [Phishing Incident Response Playbook](https://github.com/JosephLloyd/phishing-playbook)                                        |
+| **Network Traffic Monitoring and Attack Detection** | [Network Traffic Analysis (DDoS Attack)](https://github.com/JosephLloyd/network-traffic-analysis)                              |
+| **Vulnerability Assessment and Remediation**   | [Vulnerability Assessment Report](https://github.com/JosephLloyd/vulnerability-assessment)                                     |
+| **Data Leak Prevention and Access Control**    | [Data Leak Worksheet](https://github.com/JosephLloyd/data-leak-control)                                                       |
+| **Risk Assessment and Mitigation Planning**    | [Risk Register](https://github.com/JosephLloyd/risk-register)                                                                 |
+| **Security Automation and Python Scripting**   | [Algorithm for File Updates in Python](https://github.com/JosephLloyd/file-update-automation)                                 |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Network Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-4A154B?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Vulnerability Scanning and Assessment
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-00C7B7?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Security Information and Event Management (SIEM)
+<div>
+    <img src="https://img.shields.io/badge/-Elastic_Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-FFDD44?&style=for-the-badge&logo=TheHive&logoColor=black" />
+</div>
+
+### Automation and Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+### [Network Traffic Analysis (DDoS Attack)](https://github.com/JosephLloyd/network-traffic-analysis)
+Conducted a network traffic analysis to identify and mitigate a Distributed Denial of Service (DDoS) attack using tcpdump and Wireshark. Analyzed ICMP packet floods and implemented firewall rules to prevent future incidents.
+
+### [Phishing Incident Response Playbook](https://github.com/JosephLloyd/phishing-playbook)
+Developed a structured response playbook for handling phishing alerts, including detailed steps for evaluating alerts, escalating issues, and documenting findings for continuous improvement.
+
+### [Algorithm for File Updates in Python](https://github.com/JosephLloyd/file-update-automation)
+Created a Python-based algorithm to automate the process of updating access control lists by removing restricted IPs from an allowed list. Demonstrated skills in Python scripting and file handling.
+
+### [Vulnerability Assessment Report](https://github.com/JosephLloyd/vulnerability-assessment)
+Conducted a vulnerability assessment for a Linux-based server, identified high-risk vulnerabilities, and recommended remediation strategies, including multi-factor authentication and access control updates.
+
+### [Risk Register](https://github.com/JosephLloyd/risk-register)
+Developed a risk register to document and prioritize security risks, applying a structured risk assessment matrix to evaluate the likelihood, severity, and priority of each risk.
