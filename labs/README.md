@@ -18,6 +18,10 @@ This repository contains hands-on lab exercises designed to build practical cybe
    - Tools: Nessus
    - Objective: Perform a vulnerability assessment and recommend remediation strategies.
    - [Lab Files](<Add link>)
+     
+4. **Home Asset Inventory**
+   - Asset inventory and risk assessment exercise for identifying and securing home network devices.
+   - [Read More](<Add link>)
 
 ## Related Resources
 - [Lab Documentation](<Add link>)
