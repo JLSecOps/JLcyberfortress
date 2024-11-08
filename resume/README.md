@@ -1,5 +1,9 @@
 # Resume
 
+# Joseph Lloyd - Cybersecurity Professional
+**Email:** jlloyd22@outlook.com  
+**Phone:** 425-666-8014
+
 ## Overview
 This repository contains my professional resume, tailored for cybersecurity roles. It highlights my skills, certifications, and relevant projects in network security, incident response, and security automation.
 
@@ -14,5 +18,5 @@ This repository contains my professional resume, tailored for cybersecurity role
 - [Markdown Version](<Add link>)
 
 ## Related Resources
-- [LinkedIn Profile](https://linkedin.com)
+- [linkedin.com/in/joseph-lloyd-064bb9a7](https://linkedin.com/in/joseph-lloyd-064bb9a7)
 - [GitHub Portfolio](<Add link>)
