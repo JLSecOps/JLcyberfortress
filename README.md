@@ -2,17 +2,17 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
-Aspiring cybersecurity professional with hands-on experience in incident response, network traffic analysis, and vulnerability assessment. Driven by a commitment to safeguarding data and systems, I am looking to join a Security Operations Center (SOC) as a Tier 1 Analyst to apply my skills in protecting organizations from evolving cyber threats.
+Aspiring cybersecurity professional with hands-on experience in incident response, network traffic analysis, and vulnerability assessment. Driven by a commitment to safeguarding data and systems, I want to join a Security Operations Center (SOC) as a Tier 1 Analyst to apply my skills in protecting organizations from evolving cyber threats.
 
 ## Skills and Associated Projects
 | Skill                                         | Associated Project                                                                                                             |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **Incident Response and Analysis**            | [Phishing Incident Response Playbook](https://github.com/JosephLloyd/phishing-playbook)                                        |
-| **Network Traffic Monitoring and Attack Detection** | [Network Traffic Analysis (DDoS Attack)](https://github.com/JosephLloyd/network-traffic-analysis)                              |
-| **Vulnerability Assessment and Remediation**   | [Vulnerability Assessment Report](https://github.com/JosephLloyd/vulnerability-assessment)                                     |
-| **Data Leak Prevention and Access Control**    | [Data Leak Worksheet](https://github.com/JosephLloyd/data-leak-control)                                                       |
-| **Risk Assessment and Mitigation Planning**    | [Risk Register](https://github.com/JosephLloyd/risk-register)                                                                 |
-| **Security Automation and Python Scripting**   | [Algorithm for File Updates in Python](https://github.com/JosephLloyd/file-update-automation)                                 |
+| **Incident Response and Analysis**            | [Phishing Incident Response Playbook](https://github.com/JLSecOps/JLcyberfortress/blob/main/incident-response/Phishing%20incident%20response%20playbook.md)                                        |
+| **Network Traffic Monitoring and Attack Detection** | [Network Traffic Analysis (DDoS Attack)](https://github.com/JLSecOps/JLcyberfortress/blob/main/labs/Cybersecurity%20incident%20report%20network%20traffic%20analysis.md)                              |
+| **Vulnerability Assessment and Remediation**   | [Vulnerability Assessment Report](https://github.com/JLSecOps/JLcyberfortress/blob/main/reports/Vulnerability%20assessment%20report.md)                                     |
+| **Data Leak Prevention and Access Control**    | [Data Leak Worksheet](https://github.com/JLSecOps/JLcyberfortress/blob/main/incident-response/Data%20leak%20worksheet.md)                                                       |
+| **Risk Assessment and Mitigation Planning**    | [Risk Register](https://github.com/JLSecOps/JLcyberfortress/blob/main/projects/penetration-testing/Risk%20register.md)                                                                 |
+| **Security Automation and Python Scripting**   | [Algorithm for File Updates in Python](https://github.com/JLSecOps/JLcyberfortress/blob/main/scripts/Algorithm%20for%20file%20updates%20in%20Python.md)                                 |
 
 ## Tools
 
