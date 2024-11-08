@@ -1,1 +1,0 @@
-Google Cybersecurity Professional Certificate
