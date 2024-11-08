@@ -15,7 +15,15 @@ This repository contains documentation and tools for managing cybersecurity inci
 3. **Incident Report Templates**
    - Pre-filled templates for documenting incidents, including root cause analysis and remediation steps.
    - [Download Template](<Add link>)
-
+    
+4. **Data Leak Worksheet**
+   - Detailed analysis of a data leak incident with recommendations for improving access controls.
+   - [Read More](<Add link>)
+  
+5. **Incident Handler's Journal**
+   - Detailed entries documenting the analysis of various incidents, including ransomware attacks and DDoS mitigations.
+   - [Read More](<Add link>)
+  
 ## Related Resources
 - [NIST Framework Implementation](<Add link>)
 - [Incident Logs and Analysis](<Add link>)
