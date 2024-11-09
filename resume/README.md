@@ -28,9 +28,9 @@ My ultimate goal is to grow into a cybersecurity leader who not only defends sys
 - **Projects**: Network Security Audit, Phishing Incident Response, Vulnerability Assessment, and more.
 
 ## Formats
-- [PDF Version](<Add link>)
+- [PDF Version](./Joseph_Lloyd_Cybersecurity_Resume.pdf)
 - [Markdown Version](https://github.com/JLSecOps/JLcyberfortress/blob/main/resume/resume.md)
 
 ## Related Resources
 - [linkedin.com/in/joseph-lloyd-064bb9a7](https://linkedin.com/in/joseph-lloyd-064bb9a7)
-- [GitHub Portfolio](<Add link>)
+- [GitHub Portfolio](https://github.com/JLSecOps/JLcyberfortress/blob/main/README.md)
