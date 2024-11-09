@@ -51,17 +51,17 @@ Aspiring cybersecurity professional with hands-on experience in incident respons
 </div>
 
 ## Projects
-### [Network Traffic Analysis (DDoS Attack)](https://github.com/JosephLloyd/network-traffic-analysis)
+### [Network Traffic Analysis (DDoS Attack)](https://github.com/JLSecOps/JLcyberfortress/blob/main/labs/Cybersecurity%20incident%20report%20network%20traffic%20analysis.md)
 Conducted a network traffic analysis to identify and mitigate a Distributed Denial of Service (DDoS) attack using tcpdump and Wireshark. Analyzed ICMP packet floods and implemented firewall rules to prevent future incidents.
 
-### [Phishing Incident Response Playbook](https://github.com/JosephLloyd/phishing-playbook)
+### [Phishing Incident Response Playbook](https://github.com/JLSecOps/JLcyberfortress/blob/main/incident-response/Phishing%20incident%20response%20playbook.md)
 Developed a structured response playbook for handling phishing alerts, including detailed steps for evaluating alerts, escalating issues, and documenting findings for continuous improvement.
 
-### [Algorithm for File Updates in Python](https://github.com/JosephLloyd/file-update-automation)
+### [Algorithm for File Updates in Python](https://github.com/JLSecOps/JLcyberfortress/blob/main/scripts/Algorithm%20for%20file%20updates%20in%20Python.md)
 Created a Python-based algorithm to automate the process of updating access control lists by removing restricted IPs from an allowed list. Demonstrated skills in Python scripting and file handling.
 
-### [Vulnerability Assessment Report](https://github.com/JosephLloyd/vulnerability-assessment)
+### [Vulnerability Assessment Report](https://github.com/JLSecOps/JLcyberfortress/blob/main/reports/Vulnerability%20assessment%20report.md)
 Conducted a vulnerability assessment for a Linux-based server, identified high-risk vulnerabilities, and recommended remediation strategies, including multi-factor authentication and access control updates.
 
-### [Risk Register](https://github.com/JosephLloyd/risk-register)
+### [Risk Register](https://github.com/JLSecOps/JLcyberfortress/blob/main/projects/penetration-testing/Risk%20register.md)
 Developed a risk register to document and prioritize security risks, applying a structured risk assessment matrix to evaluate the likelihood, severity, and priority of each risk.
