@@ -19,5 +19,5 @@ The **Network Security Audit** project demonstrates my ability to assess and sec
 - Provided actionable recommendations for continuous monitoring and improvement.
 
 ## Related Resources
-- [Network Traffic Analysis Report](<Add link>)
-- [Firewall Configuration Scripts](<Add link>)
+- [Network Traffic Analysis Report](https://github.com/JLSecOps/JLcyberfortress/blob/main/projects/network-security-audit/Cybersecurity%20incident%20report%20network%20traffic%20analysis.md)
+- [Firewall Configuration Scripts](https://github.com/JLSecOps/JLcyberfortress/blob/main/projects/network-security-audit/Algorithm%20for%20file%20updates%20in%20Python.md)
