@@ -43,11 +43,11 @@ Aspiring cybersecurity professional with hands-on experience in incident respons
 
 ## Certifications
 <div>
+    <a href="https://coursera.org/verify/professional-cert/N5EOZM160IC1"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
     <a href="https://github.com/JLSecOps/JLcyberfortress/blob/main/certifications/NIST_RMF_Certificate.pdf"><img src="https://img.shields.io/badge/-NIST%20RMF%20Introductory%20Course-blue?style=for-the-badge&logo=NIST&logoColor=white" />
     <a href="https://github.com/JLSecOps/JLcyberfortress/blob/main/certifications/NIST%20SP_800-53_Certificate.pdf"><img src="https://img.shields.io/badge/-NIST%20SP%20800--53-green?style=for-the-badge&logo=NIST&logoColor=white" />
     <a href="https://github.com/JLSecOps/JLcyberfortress/blob/main/certifications/NIST%20SP_800-53A_Certificate.pdf"><img src="https://img.shields.io/badge/-NIST%20SP%20800--53A-orange?style=for-the-badge&logo=NIST&logoColor=white" />
     <a href="https://github.com/JLSecOps/JLcyberfortress/blob/main/certifications/NIST%20SP_800-53B_Certificate.pdf"><img src="https://img.shields.io/badge/-NIST%20SP%20800--53B-purple?style=for-the-badge&logo=NIST&logoColor=white" />
-    <a href="https://coursera.org/verify/professional-cert/N5EOZM160IC1"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Projects
