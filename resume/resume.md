@@ -19,25 +19,31 @@ Cybersecurity professional with a strong foundation in network security, inciden
   - Knowledge of identifying and mitigating cybersecurity risks, threats, and vulnerabilities  
   - [Verify Certificate](https://coursera.org/verify/professional-cert/N5EOZM160IC1)  
 
+- **CompTIA Security+** (In Progress)  
+  - Focuses on core cybersecurity skills, including risk management, network security, and incident response.
+
+- **IBM Cybersecurity Analyst Professional Certificate** (In Progress)  
+  - Comprehensive training in SOC operations, threat management, and security monitoring with hands-on labs.
+
 - **Ethical Hacking Series**  
   - Courses: Footprinting and Reconnaissance, Scanning Networks, Enumeration, Social Engineering, and System Hacking  
-  - [Verify Certificate](<Add verification link>)  
+  - Certificate available upon request 
 
 - **IT Security Foundations**  
   - Courses: Core Concepts, Network Security, Operating System Security  
-  - [Verify Certificate](<Add verification link>)  
+  - Certificate available upon request
 
 - **Learning Cryptography and Network Security**  
   - Explores cryptographic methods for securing communication and data, including encryption, hashing, and secure key exchange techniques.  
-  - [Verify Certificate](<Add verification link>)  
+  - Certificate available upon request 
 
 - **Linux Security and Hardening Essential Training**  
   - Covers essential techniques for securing Linux systems, including managing file permissions, configuring firewalls, and hardening critical services.  
-  - [Verify Certificate](<Add verification link>)  
+  - Certificate available upon request  
 
 - **Troubleshooting Your Network with Wireshark**  
   - Hands-on training in analyzing network traffic using Wireshark to identify issues such as packet loss, latency, and potential security vulnerabilities.  
-  - [Verify Certificate](<Add verification link>)
+  - Certificate available upon request
 
 ---
 
