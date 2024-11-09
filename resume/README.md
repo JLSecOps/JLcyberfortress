@@ -4,7 +4,7 @@
 **Email:** jlloyd22@outlook.com  
 **Phone:** 425-666-8014  
 **LinkedIn:** [linkedin.com/in/joseph-lloyd-064bb9a7](https://linkedin.com/in/joseph-lloyd-064bb9a7)  
-**Portfolio:** [GitHub Portfolio](https://github.com/JLSecOps/JLcyberfortress/blob/main/README.md)
+**Portfolio:** [JLcyberfortress](https://github.com/JLSecOps/JLcyberfortress/blob/main/README.md)
 
 ## Overview
 This repository contains my professional resume, tailored for cybersecurity roles. It highlights my skills, certifications, and relevant projects in network security, incident response, and security automation.
@@ -33,4 +33,4 @@ My ultimate goal is to grow into a cybersecurity leader who not only defends sys
 
 ## Related Resources
 - [linkedin.com/in/joseph-lloyd-064bb9a7](https://linkedin.com/in/joseph-lloyd-064bb9a7)
-- [GitHub Portfolio](https://github.com/JLSecOps/JLcyberfortress/blob/main/README.md)
+- [JLcyberfortress](https://github.com/JLSecOps/JLcyberfortress/blob/main/README.md)
