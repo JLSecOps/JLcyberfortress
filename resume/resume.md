@@ -1,7 +1,7 @@
 
 # Joseph Lloyd - Cybersecurity Professional
 
-**Email:** jalloyd@zenithwellnesssolutions.com  
+**Email:** jlloyd22@outlook.com  
 **Phone:** 425-666-8014  
 **LinkedIn:** [linkedin.com/in/joseph-lloyd-064bb9a7](https://linkedin.com/in/joseph-lloyd-064bb9a7)  
 **Portfolio:** [GitHub Portfolio](https://github.com/JLSecOps/JLcyberfortress/blob/main/README.md)
