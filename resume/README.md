@@ -10,10 +10,10 @@
 This repository contains my professional resume, tailored for cybersecurity roles. It highlights my skills, certifications, and relevant projects in network security, incident response, and security automation.
 
 ## Key Sections
-- **Objective**: Aspiring cybersecurity professional seeking to join a SOC as a Tier 1 Analyst.
-- **Certifications**: Google Cybersecurity Certificate, CompTIA Security+ (in progress).
-- **Skills**: SIEM tools, Python scripting, network analysis, vulnerability assessment.
-- **Projects**: Network Security Audit, Phishing Incident Response, and more.
+- **Objective**: Aspiring cybersecurity professional seeking to join a SOC as a Tier 1 Analyst.  
+- **Certifications**: Google Cybersecurity Certificate, CompTIA Security+ (in progress), IBM Cybersecurity Analyst Professional Certificate (in progress).  
+- **Skills**: SIEM tools, Python scripting, network analysis, vulnerability assessment, Linux hardening.  
+- **Projects**: Network Security Audit, Phishing Incident Response, Vulnerability Assessment, and more.
 
 ## Formats
 - [PDF Version](<Add link>)
