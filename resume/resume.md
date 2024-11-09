@@ -20,16 +20,24 @@ Cybersecurity professional with a strong foundation in network security, inciden
   - [Verify Certificate](https://coursera.org/verify/professional-cert/N5EOZM160IC1)  
 
 - **Ethical Hacking Series**  
-  - Courses: Footprinting and Reconnaissance, Scanning Networks, Enumeration, Social Engineering, and System Hacking
+  - Courses: Footprinting and Reconnaissance, Scanning Networks, Enumeration, Social Engineering, and System Hacking  
+  - [Verify Certificate](<Add verification link>)  
 
 - **IT Security Foundations**  
-  - Courses: Core Concepts, Network Security, Operating System Security
+  - Courses: Core Concepts, Network Security, Operating System Security  
+  - [Verify Certificate](<Add verification link>)  
 
 - **Learning Cryptography and Network Security**  
+  - Explores cryptographic methods for securing communication and data, including encryption, hashing, and secure key exchange techniques.  
+  - [Verify Certificate](<Add verification link>)  
 
 - **Linux Security and Hardening Essential Training**  
+  - Covers essential techniques for securing Linux systems, including managing file permissions, configuring firewalls, and hardening critical services.  
+  - [Verify Certificate](<Add verification link>)  
 
-- **Troubleshooting Your Network with Wireshark**
+- **Troubleshooting Your Network with Wireshark**  
+  - Hands-on training in analyzing network traffic using Wireshark to identify issues such as packet loss, latency, and potential security vulnerabilities.  
+  - [Verify Certificate](<Add verification link>)
 
 ---
 
