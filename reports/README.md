@@ -17,6 +17,6 @@ This repository contains comprehensive reports on various cybersecurity tasks, i
    - [Read Report](<Add link>)
 
 ## Related Resources
-- [Risk Assessment Overview](<Add link>)
-- [Remediation Strategies](<Add link>)
+- [Risk Assessment Overview](https://github.com/JLSecOps/JLcyberfortress/blob/main/projects/penetration-testing/Risk%20register.md)
+- [Remediation Strategies](https://github.com/JLSecOps/JLcyberfortress/blob/main/projects/network-security-audit/Vulnerability%20assessment%20report.md)
 
