@@ -23,8 +23,3 @@ This repository includes scripts I have developed for automating security tasks.
 - Python (pandas, re)
 - Bash scripting
 - Linux command-line utilities
-
-## Related Resources
-- [Script Documentation](<Add link>)
-- [Automation Project Overview](<Add link>)
-
