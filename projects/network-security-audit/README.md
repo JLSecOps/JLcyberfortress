@@ -1,9 +1,7 @@
 # Network Security Audit
 
-## Key Objectives
-- Perform a thorough analysis of network traffic using tools like Wireshark and tcpdump.
-- Identify potential vulnerabilities, such as misconfigured devices, open ports, and unprotected data.
-- Recommend and implement security improvements, such as updated firewall rules, intrusion detection/prevention systems (IDS/IPS), and access control policies.
+## Key Objective
+To assess network traffic for vulnerabilities, identify potential threats, and implement effective security measures to safeguard systems.
 
 ## Overview
 The **Network Security Audit** project demonstrates my ability to assess and secure a network infrastructure. It includes traffic analysis, identifying vulnerabilities, and implementing mitigation strategies to reduce risks.
