@@ -6,6 +6,16 @@ To automate repetitive security tasks such as log analysis, access control manag
 ## Overview
 This repository includes scripts I have developed for automating security tasks. These scripts streamline processes like access control management, log analysis, and vulnerability scanning.
 
+## Tools and Techniques
+- **Python**: For writing automation scripts.
+- **Bash**: For command-line log parsing and scripting.
+- **SQL**: For detecting injection vulnerabilities in database queries.
+
+## Outcomes
+- Automated log analysis to detect failed login attempts.
+- Developed scripts to identify and prevent SQL injection vulnerabilities.
+- Reduced manual workload for access control updates.
+
 ## Featured Scripts
 1. **Algorithm for File Updates in Python**
    - Language: Python
@@ -21,8 +31,3 @@ This repository includes scripts I have developed for automating security tasks.
    - Language: Bash
    - Description: Scans web server logs for patterns indicative of SQL injection attempts.
    - [Source Code](https://github.com/JLSecOps/JLcyberfortress/blob/main/scripts/Apply%20filters%20to%20SQL%20queries.md)
-
-## Tools and Libraries
-- Python (pandas, re)
-- Bash scripting
-- Linux command-line utilities
