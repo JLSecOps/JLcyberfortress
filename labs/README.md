@@ -1,29 +1,30 @@
 # Labs
 
+## Key Objective
+To showcase hands-on exercises and labs that build practical skills in network analysis, threat detection, and incident response.
+
 ## Overview
-This repository contains hands-on lab exercises designed to build practical cybersecurity skills. Labs include network traffic analysis, penetration testing, and security automation.
+This directory contains hands-on lab exercises designed to develop practical cybersecurity skills.
 
-## Featured Labs
-1. **Network Traffic Analysis**
-   - Tools: Wireshark, tcpdump
-   - Objective: Analyze and identify anomalies in captured network traffic.
-   - [Lab Files](<Add link>)
+## Tools and Techniques
+- **Network Analysis**: Using tools like Wireshark and tcpdump for traffic inspection.
+- **Threat Detection**: Identifying anomalies and potential threats in lab simulations.
+- **Security Awareness**: Exercises focused on recognizing and mitigating risks.
 
-2. **Phishing Simulation**
-   - Tools: Splunk, TheHive
-   - Objective: Simulate phishing attacks to test incident response readiness.
-   - [Lab Files](<Add link>)
+## Outcomes
+- Gained hands-on experience in detecting SYN floods and ICMP traffic anomalies.
+- Demonstrated effective response strategies to USB baiting scenarios.
+- Applied data protection strategies to prevent sensitive information leaks.
 
-3. **Vulnerability Scanning**
-   - Tools: Nessus
-   - Objective: Perform a vulnerability assessment and recommend remediation strategies.
-   - [Lab Files](<Add link>)
-     
-4. **Home Asset Inventory**
-   - Asset inventory and risk assessment exercise for identifying and securing home network devices.
-   - [Read More](<Add link>)
+## Files Included
+- **Network Traffic Analysis Lab**  
+  - Lab report analyzing SYN flood and ICMP traffic anomalies.  
+  - [Link to File](../Cybersecurity%20incident%20report%20network%20traffic%20analysis.docx)
 
-## Related Resources
-- [Lab Documentation](<Add link>)
-- [Skill Development Tracker](<Add link>)
+- **Parking Lot USB Exercise**  
+  - Security awareness exercise highlighting risks of USB baiting.  
+  - [Link to File](../Parking%20lot%20USB%20exercise.docx)
 
+- **Data Leak Worksheet**  
+  - Lab focused on securing sensitive data and preventing data leaks.  
+  - [Link to File](../Activity%20Template:%20Data%20leak%20worksheet.docx)
