@@ -1,22 +1,30 @@
 # Reports
 
+## Key Objective
+To provide in-depth analysis and documentation of cybersecurity incidents, risk assessments, and vulnerability management.
+
 ## Overview
-This repository contains comprehensive reports on various cybersecurity tasks, including incident response, vulnerability assessment, and risk analysis.
+This directory contains detailed reports on cybersecurity incidents, risk assessments, and vulnerability management.
 
-## Featured Reports
-1. **Incident Response: DDoS Attack Analysis**
-   - Summary: A detailed analysis of a DDoS attack, including root cause identification and remediation steps.
-   - [Read Report](https://github.com/JLSecOps/JLcyberfortress/blob/main/incident-response/Incident%20report%20analysis.md)
+## Tools and Techniques
+- **Risk Assessment Frameworks**: NIST RMF, ISO 31000.
+- **Vulnerability Scanning Tools**: Nessus, OpenVAS.
+- **Threat Modeling**: Applied methodologies like PASTA for identifying risks.
 
-2. **Vulnerability Assessment**
-   - Summary: Identification of critical vulnerabilities in a Linux-based server and mitigation recommendations.
-   - [Read Report](https://github.com/JLSecOps/JLcyberfortress/blob/main/reports/Vulnerability%20assessment%20report.md)
+## Outcomes
+- Delivered comprehensive vulnerability assessment reports with actionable remediation plans.
+- Identified and prioritized risks using structured risk registers.
+- Documented incident findings for lessons learned and improved protocols.
 
-3. **Risk Register**
-   - Summary: A prioritized list of risks, including likelihood, severity, and recommended actions.
-   - [Read Report](https://github.com/JLSecOps/JLcyberfortress/blob/main/projects/penetration-testing/Risk%20register.md)
+## Files Included
+- **Vulnerability Assessment Report**  
+  - Analysis of system vulnerabilities and remediation strategies.  
+  - [Link to File](https://github.com/JLSecOps/JLcyberfortress/blob/main/reports/Vulnerability%20assessment%20report.md)
 
-## Related Resources
-- [Risk Assessment Overview](https://github.com/JLSecOps/JLcyberfortress/blob/main/projects/penetration-testing/Risk%20register.md)
-- [Remediation Strategies](https://github.com/JLSecOps/JLcyberfortress/blob/main/projects/network-security-audit/Vulnerability%20assessment%20report.md)
+- **Final Report**  
+  - Comprehensive summary of findings from multiple cybersecurity projects.  
+  - [Link to File](https://github.com/JLSecOps/JLcyberfortress/blob/main/reports/Final%20report.md)
 
+- **Risk Register**  
+  - Document identifying risks, likelihood, impact, and mitigation strategies.  
+  - [Link to File](https://github.com/JLSecOps/JLcyberfortress/blob/main/projects/penetration-testing/Risk%20register.md)
