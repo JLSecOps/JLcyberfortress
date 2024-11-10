@@ -6,16 +6,14 @@
 **LinkedIn:** [linkedin.com/in/joseph-lloyd-064bb9a7](https://linkedin.com/in/joseph-lloyd-064bb9a7)  
 **Portfolio:** [JLcyberfortress](https://github.com/JLSecOps/JLcyberfortress/blob/main/README.md)
 
+## Key Sections
+- **Objective**: Aspiring cybersecurity professional seeking to join a SOC as a Tier 1 Analyst.  
+- **Certifications**: Google Cybersecurity Certificate, CompTIA Security+ (in progress), IBM Cybersecurity Analyst Professional Certificate (in progress).  
+- **Skills**: SIEM tools, Python scripting, network analysis, vulnerability assessment, Linux hardening.  
+- **Projects**: Network Security Audit, Phishing Incident Response, Vulnerability Assessment, and more.
+
 ## Overview
 This repository contains my professional resume, tailored for cybersecurity roles. It highlights my skills, certifications, and relevant projects in network security, incident response, and security automation.
-
-## Tools and Techniques
-- **Markdown**: For clean and structured formatting.
-- **Google Docs**: For professional layout and PDF export.
-
-## Outcomes
-- Created a concise, visually appealing resume tailored for cybersecurity roles.
-- Linked certifications, projects, and portfolios for easy access.
 
 ## About Me
 Hi! I’m Joseph Lloyd, originally from Cleveland, Ohio, and I’m a naturally curious and detail-oriented individual who loves diving into complex challenges. My journey into cybersecurity stems from my innate drive to understand how things work and my desire to protect the systems that power our increasingly digital world.
@@ -27,13 +25,6 @@ I chose cybersecurity because it allows me to channel my analytical mindset, pro
 In addition to my technical pursuits, I’ve worked as a Life Coach, helping others set and achieve their goals. This has honed my communication and leadership skills, which I bring into collaborative environments like Security Operations Centers (SOC). Outside of work, I enjoy exploring emerging technologies, learning new programming languages, and mentoring others who are starting their journeys in technology.
 
 My ultimate goal is to grow into a cybersecurity leader who not only defends systems but also inspires and empowers teams to work together toward a safer digital future. I bring enthusiasm, integrity, and creativity to everything I do, and I’m excited to continue my professional journey in cybersecurity.
-
-
-## Key Sections
-- **Objective**: Aspiring cybersecurity professional seeking to join a SOC as a Tier 1 Analyst.  
-- **Certifications**: Google Cybersecurity Certificate, CompTIA Security+ (in progress), IBM Cybersecurity Analyst Professional Certificate (in progress).  
-- **Skills**: SIEM tools, Python scripting, network analysis, vulnerability assessment, Linux hardening.  
-- **Projects**: Network Security Audit, Phishing Incident Response, Vulnerability Assessment, and more.
 
 ## Formats
 - [PDF Version](./Joseph_Lloyd_Cybersecurity_Resume.pdf)
