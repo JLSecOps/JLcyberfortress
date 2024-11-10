@@ -4,7 +4,7 @@
 To automate repetitive security tasks such as log analysis, access control management, and vulnerability detection, improving efficiency and accuracy.
 
 ## Overview
-This repository includes scripts I have developed for automating security tasks. These scripts streamline processes like access control management, log analysis, and vulnerability scanning.
+This directory contains scripts and resources for automating security tasks, including access control updates, log analysis, and threat detection.
 
 ## Tools and Techniques
 - **Python**: For writing automation scripts.
