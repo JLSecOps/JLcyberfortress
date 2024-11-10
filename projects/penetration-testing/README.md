@@ -19,5 +19,6 @@ This project focuses on simulating real-world cyberattacks to identify weaknesse
 - Enhanced organizational awareness of penetration testing benefits.
 
 ## Related Resources
-- [Penetration Testing Report](<Add link>)
-- [Exploit Scripts](<Add link>)
+- [SQL Injection Detection Documentation](https://github.com/JLSecOps/JLcyberfortress/blob/main/projects/penetration-testing/Apply%20filters%20to%20SQL%20queries.md)
+- [Phishing Incident Response Playbook](https://github.com/JLSecOps/JLcyberfortress/blob/main/incident-response/Phishing%20incident%20response%20playbook.md)
+- [PASTA Worksheet](https://github.com/JLSecOps/JLcyberfortress/blob/main/labs/PASTA%20worksheet.md)
