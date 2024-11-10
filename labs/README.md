@@ -19,12 +19,12 @@ This directory contains hands-on lab exercises designed to develop practical cyb
 ## Files Included
 - **Network Traffic Analysis Lab**  
   - Lab report analyzing SYN flood and ICMP traffic anomalies.  
-  - [Link to File](../Cybersecurity%20incident%20report%20network%20traffic%20analysis.docx)
+  - [Link to File](https://github.com/JLSecOps/JLcyberfortress/blob/main/labs/Cybersecurity%20incident%20report%20network%20traffic%20analysis.md)
 
 - **Parking Lot USB Exercise**  
   - Security awareness exercise highlighting risks of USB baiting.  
-  - [Link to File](../Parking%20lot%20USB%20exercise.docx)
+  - [Link to File](https://github.com/JLSecOps/JLcyberfortress/blob/main/labs/Parking%20lot%20USB%20exercise.md)
 
 - **Data Leak Worksheet**  
   - Lab focused on securing sensitive data and preventing data leaks.  
-  - [Link to File](../Activity%20Template:%20Data%20leak%20worksheet.docx)
+  - [Link to File](https://github.com/JLSecOps/JLcyberfortress/blob/main/incident-response/Data%20leak%20worksheet.md)
