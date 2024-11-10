@@ -1,9 +1,7 @@
 # Penetration Testing
 
-## Key Objectives
-- Conduct ethical hacking to test the resilience of systems against potential attacks.
-- Use tools like Metasploit to simulate exploitation scenarios.
-- Provide a comprehensive report with actionable remediation strategies.
+## Key Objective
+To simulate real-world cyberattacks to uncover vulnerabilities, test system defenses, and recommend actionable remediation strategies.
 
 ## Overview
 This project focuses on simulating real-world cyberattacks to identify weaknesses in system defenses. The penetration testing exercises include network scanning, vulnerability exploitation, and reporting.
