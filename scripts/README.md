@@ -1,5 +1,8 @@
 # Security Automation Scripts
 
+## Key Objective
+To automate repetitive security tasks such as log analysis, access control management, and vulnerability detection, improving efficiency and accuracy.
+
 ## Overview
 This repository includes scripts I have developed for automating security tasks. These scripts streamline processes like access control management, log analysis, and vulnerability scanning.
 
