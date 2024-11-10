@@ -9,6 +9,14 @@
 ## Overview
 This repository contains my professional resume, tailored for cybersecurity roles. It highlights my skills, certifications, and relevant projects in network security, incident response, and security automation.
 
+## Tools and Techniques
+- **Markdown**: For clean and structured formatting.
+- **Google Docs**: For professional layout and PDF export.
+
+## Outcomes
+- Created a concise, visually appealing resume tailored for cybersecurity roles.
+- Linked certifications, projects, and portfolios for easy access.
+
 ## About Me
 Hi! I’m Joseph Lloyd, originally from Cleveland, Ohio, and I’m a naturally curious and detail-oriented individual who loves diving into complex challenges. My journey into cybersecurity stems from my innate drive to understand how things work and my desire to protect the systems that power our increasingly digital world.
 
