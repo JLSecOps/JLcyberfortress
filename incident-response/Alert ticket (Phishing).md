@@ -2,11 +2,11 @@
 
 | Ticket ID | Alert Message | Severity | Details | Ticket status |
 | :---- | :---- | :---- | :---- | :---- |
-| A-2703 | SERVER-MAIL Phishing attempt possible download of malware | Medium | The user may have opened a malicious email and opened attachments or clicked links. | **Escalated** |
+| A-2703 | SERVER-MAIL Phishing attempt possible download of malware | Medium | The user may have opened a malicious email and attachments or clicked links. | **Escalated** |
 
 | Ticket comments  |
 | :---- |
-| The phishing email was sent from an external source with the sender address Def Communications \<76tguyhh6tgftrt7tg.su\>. The IP address associated with this sender is 114.114.114.114. This email was sent to an employee on Wednesday, July 20, 2022, at 9:30:14 AM, prompting them to download an executable file (bfsvc.exe), which is highly suspicious. The file was also password-protected with the password "paradise10789", a common tactic used to bypass automated malware detection. The email was received by hr@inergy.com (IP address: 176.157.125.93). This was intended to impersonate a job application process, convincing the recipient to open the file attachment, which may contain malware. The inclusion of a password for the file is another indication of a potential phishing attack, as this is a known method used to deliver malware.  |
+| The phishing email was sent from an external source with the sender address Def Communications \<76tguyhh6tgftrt7tg.su\>. The IP address associated with this sender is 114.114.114.114. This email was sent to an employee on Wednesday, July 20, 2022, at 9:30:14 AM, prompting them to download an executable file (bfsvc.exe), which is highly suspicious. The file was also password-protected with the password "paradise10789", a common tactic to bypass automated malware detection. The email was received by hr@inergy.com (IP address: 176.157.125.93). This was intended to impersonate a job application process, convincing the recipient to open the file attachment, which may contain malware. Including a password for the file is another indication of a potential phishing attack, as this is a known method used to deliver malware.  |
 
 ### **Additional information**
 
@@ -16,13 +16,13 @@
 From: Def Communications \<76tguyhh6tgftrt7tg.su\>  \<114.114.114.114\>  
 Sent: Wednesday, July 20, 2022 09:30:14 AM  
 To: \<hr@inergy.com\> \<176.157.125.93\>  
-Subject: Re: Infrastructure Egnieer role
+Subject: Re: Infrastructure Engineer role
 
 Dear HR at Ingergy,
 
-I am writing for to express my interest in the engineer role posted from the website.
+I am writing to express my interest in the engineer role posted on the website.
 
-There is attached my resume and cover letter. For privacy, the file is password protected. Use the password paradise10789 to open. 
+My resume and cover letter are attached. For privacy, the file is password protected. Use the password paradise10789 to open. 
 
 Thank you,
 
