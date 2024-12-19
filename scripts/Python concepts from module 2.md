@@ -69,7 +69,7 @@ Sorts the elements in the list in alphabetical order and outputs the sorted list
 
 ## Importing modules and libraries
 
-The following keyword is used to import a module from the Python Standard Library or to import an external library that has already been installed.
+The following keyword is used to import a module from the Python Standard Library or an external library that has already been installed.
 
 ### **import**
 
@@ -78,10 +78,10 @@ Searches for a module or library in a system and adds it to the local Python env
 	import statistics  
 Imports the statistics module and all of its functions from the Python Standard Library
 
-from statistics import mean   
+from statistics, import mean   
 Imports the mean() function of the statistics module from the Python Standard Library
 
-from statistics import mean, median  
+from statistic,s import mean, median  
 Imports the mean() and median() functions of the statistics module from the Python Standard Library
 
 ## Comments
