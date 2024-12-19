@@ -26,5 +26,5 @@ This directory contains hands-on lab exercises designed to develop practical cyb
   - [Link to File](https://github.com/JLSecOps/JLcyberfortress/blob/main/labs/Parking%20lot%20USB%20exercise.md)
 
 - **Data Leak Worksheet**  
-  - Lab focused on securing sensitive data and preventing data leaks.  
+  - The lab is focused on securing sensitive data and preventing data leaks.  
   - [Link to File](https://github.com/JLSecOps/JLcyberfortress/blob/main/incident-response/Data%20leak%20worksheet.md)
