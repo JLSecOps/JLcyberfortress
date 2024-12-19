@@ -78,6 +78,15 @@ Developed a Python script to automate the removal of unauthorized IPs from acces
 - Maintained confidentiality of sensitive patient records, demonstrating strict adherence to HIPAA privacy protocols  
 - Supported IT initiatives to improve documentation workflows in clinical environments
 
+### Cybersecurity Analyst
+*LowT99* |  August 2022 – October 2024
+- Continuously oversee LowT99's networks and systems to detect and respond to security breaches or anomalies.
+- Conduct regular assessments to identify and mitigate potential security vulnerabilities within the organization's infrastructure.
+- Develop and implement protocols for responding to security incidents, including investigation, containment, and remediation.
+- Collaborate with IT and management teams to establish and enforce security policies and procedures.
+- Educate employees on best practices for information security to foster a culture of vigilance and compliance.
+
+
 ### Security Guard  
 *Star Protection Agency, LLC* | May 2015 – April 2016  
 - Conducted routine patrols, monitored for suspicious activities, and maintained a secure environment  
