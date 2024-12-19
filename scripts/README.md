@@ -9,7 +9,7 @@ This directory contains scripts and resources for automating security tasks, inc
 ## Tools and Techniques
 - **Python**: For writing automation scripts.
 - **Bash**: For command-line log parsing and scripting.
-- **SQL**: For detecting injection vulnerabilities in database queries.
+- **SQL**: This detects injection vulnerabilities in database queries.
 
 ## Outcomes
 - Automated log analysis to detect failed login attempts.
