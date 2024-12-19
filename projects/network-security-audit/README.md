@@ -4,7 +4,7 @@
 To assess network traffic for vulnerabilities, identify potential threats, and implement effective security measures to safeguard systems.
 
 ## Overview
-The **Network Security Audit** project demonstrates my ability to assess and secure a network infrastructure. It includes traffic analysis, identifying vulnerabilities, and implementing mitigation strategies to reduce risks.
+The Network Security Audit project demonstrates my ability to assess and secure a network infrastructure. It involves traffic analysis, identifying vulnerabilities, and implementing mitigation strategies to reduce risks.
 
 ## Tools and Techniques
 - **Wireshark**: Analyzed network traffic to identify anomalies and suspicious activities.
