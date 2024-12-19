@@ -24,7 +24,7 @@ After confirming the web application vulnerability, the security team analyzed t
 
 The organization collaborated with the public relations department to disclose the data breach to its customers. Additionally, the organization offered free identity protection services to customers affected by the incident. 
 
-After the security team reviewed the associated web server logs, the cause of the attack was very clear. A single log source showed an exceptionally high volume of sequentially listed customer orders.
+After the security team reviewed the associated web server logs, the cause of the attack was very clear. A single log source showed a high volume of sequentially listed customer orders.
 
 ### **Recommendations**
 
