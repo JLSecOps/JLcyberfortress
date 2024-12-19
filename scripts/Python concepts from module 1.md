@@ -61,7 +61,7 @@ Generates a sequence of numbers
 Generates a sequence with a start point of 0, a stop point of 5, and an increment of 1; because the start point is inclusive but the stop point is exclusive, the generated sequence is 0, 1, 2, 3, and 4 
 
 range(5)  
-Generates a sequence with a stop point of 5; when the start point is not specified, it is set at the default value of 0, and when the increment is not specified, it is set at the default value of 1; the generated sequence is 0, 1, 2, 3, and 4 
+Generates a sequence with a stopping point of 5; when the start point is not specified, it is set at the default value of 0, and when the increment is not specified, it is set at the default value of 1; the generated sequence is 0, 1, 2, 3, and 4 
 
 ## Conditional statements
 
@@ -82,11 +82,11 @@ Starts a conditional statement that evaluates if the user variable contains a va
 Precedes a condition that is only evaluated when previous conditions evaluate to False; previous conditions include the condition in the if statement, and when applicable, conditions in other elif statements
 
 	elif status \== 500:  
-When previous conditions evaluate to False, evaluates if the status variable contains a value that is equal to 500
+When previous conditions evaluate to False, evaluate if the status variable contains a value that is equal to 500
 
 ### **else**
 
-Precedes a code section that only evaluates when all conditions that precede it within the conditional statement evaluate to False; this includes the condition in the if statement, and when applicable, conditions in elif statements 
+Precedes a code section that only evaluates when all conditions that preceded it within the conditional statement evaluate to False; this includes the condition in the if statement and, when applicable, conditions in elif statements 
 
 	else:  
 When previous conditions evaluate to False, Python evaluates this else statement
@@ -95,14 +95,14 @@ When previous conditions evaluate to False, Python evaluates this else statement
 
 ### **and**
 
-Requires both conditions on either side of the operator to evaluate to True
+Requires both conditions on either side of the operator to evaluate True
 
 	if username \== "bmoreno" and login\_attempts \< 5:  
-Evaluates to True if the value in the username variable is equal to  "bmoreno" and the value in the login\_attempts variable is less than 5
+Evaluate to True if the value in the username variable is equal to  "bmoreno" and the value in the login\_attempts variable is less than 5
 
 ### **or**
 
-Requires only one of the conditions on either side of the operator to evaluate to True
+Requires only one of the conditions on either side of the operator to evaluate True
 
 	if status \== 100 or status \== 102:  
 Evaluates to True if the value in the status variable is equal to 100 or the value in the  status variable is equal to 102
@@ -112,7 +112,7 @@ Evaluates to True if the value in the status variable is equal to 100 or the val
 Negates a given condition so that it evaluates to False if the condition is True and to True if it is False
 
 	if not account\_status \== "removed"  
-Evaluates to False if the value in the account\_status variable is equal to "removed" and evaluates to True if the value is the account\_status variable is not equal to "removed"
+Evaluates to False if the value in the account\_status variable is equal to "removed" and evaluates to True if the value in the account\_status variable is not equal to "removed"
 
 ## Iterative statements
 
