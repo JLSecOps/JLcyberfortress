@@ -21,11 +21,11 @@
 **Details from the Log:**
 
 * The log showed initial outgoing UDP requests from the client’s IP address (192.51.100.15) to the DNS server (203.0.113.2) for resolving the domain name yummyrecipesforme.com.  
-* ICMP responses were sent back from the DNS server indicating that the destination port (port 53\) was unreachable.
+* ICMP responses were returned from the DNS server, indicating that the destination port (port 53\) was unreachable.
 
 **Interpretation of the Issues:**
 
-* The ICMP error messages suggest that the DNS server was not listening on port 53, which is essential for DNS queries to be processed. This resulted in the inability to resolve the domain name, leading to the website being inaccessible.
+* The ICMP error messages suggest that the DNS server was not listening on port 53, which is essential for processing DNS queries. This resulted in the inability to resolve the domain name, making the website inaccessible.
 
 **Record in Part One of the Cybersecurity Incident Report:**
 
@@ -41,7 +41,7 @@
 
 **When the Problem was First Reported:**
 
-* The issue was first reported when clients were unable to access the website and received the error message "destination port unreachable."
+* The issue was first reported when clients could not access the website and received the error message "destination port unreachable."
 
 **Scenario, Events, and Symptoms:**
 
